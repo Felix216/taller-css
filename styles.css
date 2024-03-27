@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(245, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+h2 {
+    padding-top: 50px;
+}
+button {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+}
+.categoria {
+    background-color: white;
+    box-shadow: rgb(0, 0, 0) 200px;
+    padding-left: 80px;
+    padding-right: 80px
+}
+.imagen {
+    text-align: right;
+    padding-right: 220px;
+    padding-bottom: 80px;
+}
+.navbar {
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    color: white;
+}
